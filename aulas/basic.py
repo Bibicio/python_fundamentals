@@ -52,4 +52,3 @@
 #print(produto.get('produtos').get('002'))           
 ##produto['produtos']['001']['preco'] = 29.90
 ##print(produto['produtos']['001']['preco'])      
-#     
